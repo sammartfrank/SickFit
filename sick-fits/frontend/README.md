@@ -1,3 +1,5 @@
-# Advanced-React
+# Front End 
 
-frontend
+# React Functional Programming
+= Responsive
+= Single Page Application
